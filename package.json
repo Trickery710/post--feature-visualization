@@ -15,7 +15,7 @@
     "d3": "^7.0.0",
     "d3-scale-chromatic": "^3.0.0",
     "file-loader": "^0.10.1",
-    "html-webpack-plugin": "^4.0.0",
+    "html-webpack-plugin": "^5.5.0",
     "numpy-loader": "^1.2.0",
     "svelte": "3.49.0",
     "svelte-extras": "^1.4.1",
