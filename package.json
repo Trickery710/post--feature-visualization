@@ -20,7 +20,7 @@
     "svelte": "3.49.0",
     "svelte-extras": "^1.4.1",
     "svelte-loader": "^2.1.0",
-    "webpack": "^4.26.0",
+    "webpack": "^5.75.0",
     "webpack-dev-server": "^4.0.0"
   },
   "devDependencies": {
